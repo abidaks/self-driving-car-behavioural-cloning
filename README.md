@@ -30,6 +30,10 @@ To run my trained model with drive.py code start the simulator in `autonomous mo
 
 Then you will see the model driving the car in autonomous mode.
 
+[Watch the video](https://www.youtube.com/watch?v=p3ySmmDBX0Q)
+
+[![Watch the video](https://j.gifs.com/xnBDXl.gif)](https://www.youtube.com/watch?v=p3ySmmDBX0Q)
+
 ## Training Your own Model
 I recomend to train your Behavioural Cloning in Self Driving Cars model using [Google Colab](https://colab.research.google.com/).
 
